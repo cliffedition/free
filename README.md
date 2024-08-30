@@ -1,8 +1,8 @@
 # free
-1.2.3.4  tab
-8.8.8.8 space
+1.2.3.4
+8.8.8.8
 # seccond comment
-10.10.10.10, comma
+10.10.10.10
 # third one
 google.de
 sub.google.de
