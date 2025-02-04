@@ -1,1 +1,1 @@
-just some text for me
+{"success":true,"map":null,"listMap":[{"is_active":"true","product_url":"test.url","price":"999","fe_sku":"TEST123_DE","locale":"DE"}]}
