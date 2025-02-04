@@ -1,1 +1,1 @@
-{"success":true,"map":null,"listMap":[{"is_active":"false","product_url":"https://www.google.com","price":"999","fe_sku":"TEST123_DE","locale":"DE"}]}
+{"success":true,"map":null,"listMap":[{"is_active":"false","product_url":"https://www.mydealee.com","price":"999","fe_sku":"TEST123_DE","locale":"DE"}]}
