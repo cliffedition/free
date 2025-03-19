@@ -1,0 +1,6 @@
+ip;domain;weight;url;file_hash;file_name;http_referrer;http_user_agent;description
+111.111.111.111;;50;;;;;;Some ip description
+;myexample.de;50;;;;;;Some domain  description
+;;55;https://myexample.de;;;;;Some URL description
+;;59;;d41d8cd98f00b204e9800998ecf8427e;myexample.dll;;;Some Exe description
+;;;;;;;;
